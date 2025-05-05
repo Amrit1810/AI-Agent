@@ -50,10 +50,9 @@ The solution integrates a custom GUI built with Tkinter and the CustomTkinter li
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/Amrit1810/AI-Agent.git)
     cd your-repository-name
     ```
-    *(Replace `your-username/your-repository-name` with your actual repo details)*
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
     *   **Windows:**
