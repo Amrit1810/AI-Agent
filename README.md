@@ -50,7 +50,7 @@ The solution integrates a custom GUI built with Tkinter and the CustomTkinter li
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/Amrit1810/AI-Agent.git)
+    git clone https://github.com/Amrit1810/AI-Agent.git
     cd your-repository-name
     ```
 
