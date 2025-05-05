@@ -109,7 +109,7 @@ The solution integrates a custom GUI built with Tkinter and the CustomTkinter li
     *   Locate the `BrowserConfig` initialization within the `SimpleAgentRunner` class:
         ```python
         self.browser_config = BrowserConfig(
-            chrome_instance_path="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", # <-- EDIT THIS LINE
+            chrome_instance_path="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
         )
         ```
     *   **IMPORTANT:** Modify the `chrome_instance_path` string to point to the *correct* location of your `chrome.exe` (or the equivalent executable on macOS/Linux) on your specific system.
