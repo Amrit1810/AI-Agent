@@ -1,0 +1,19 @@
+# Core Application Logic & AI
+langchain-openai>=0.1.0,<0.2.0
+pydantic>=2.0.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Browser Automation
+browser-use>=0.1.0,<0.2.0 
+
+# GUI Framework
+customtkinter>=5.0.0,<6.0.0
+
+# Note: The following are often dependencies of the above or built-in, 
+# listed here for completeness but may not need explicit listing if 
+# pip dependency resolution works correctly.
+# openai>=1.0.0,<2.0.0  (pulled in by langchain-openai)
+# langchain>=0.1.0,<0.2.0 (pulled in by langchain-openai)
+# langchain-core>=0.1.0,<0.2.0 (pulled in by langchain)
+# tkinter (usually included with Python standard library)
+# asyncio, logging, queue, threading, os, traceback, io (built-in) 
