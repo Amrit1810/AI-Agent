@@ -155,7 +155,7 @@ The solution integrates a custom GUI built with Tkinter and the CustomTkinter li
 
 *   **LangChain:** [https://python.langchain.com/](https://python.langchain.com/) - Framework for developing applications powered by language models.
 *   **OpenAI:** [https://openai.com/](https://openai.com/) | [API Documentation](https://platform.openai.com/docs) - Provider of the GPT models used.
-*   **browser-use:** [Link to library's GitHub repo or PyPI page] - The browser automation library. *(You need to find and add the specific link for this library, e.g., https://pypi.org/project/browser-use/ or its GitHub URL)*.
+*   **browser-use:** [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use) - The browser automation library.
 *   **CustomTkinter:** [https://github.com/TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Python UI library based on Tkinter.
 *   **Python:** [https://www.python.org/](https://www.python.org/)
 
